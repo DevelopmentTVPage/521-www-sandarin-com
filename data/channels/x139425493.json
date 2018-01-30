@@ -1,0 +1,19 @@
+{
+    "title": "Live Streaming Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1517340121",
+    "date_modified": "1517340943",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "139425493",
+    "loginId": "1759126",
+    "entityType": "3",
+    "titleTextEncoded": "Live-Streaming-Channel",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
