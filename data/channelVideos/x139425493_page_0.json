@@ -1,0 +1,25 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "139425494",
+            "title": "Live Streaming",
+            "date_created": "1517340223",
+            "loginId": "1759126",
+            "tags": null,
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "type_stream": "live",
+                "sources": [],
+                "hlsUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/2bc41839a1924b5bbad8f346b49032d4\/index.m3u8",
+                "dashUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/280100cbe8114f31a1fada8439f313e5\/index.mpd",
+                "live_status": "LIVE_STARTED",
+                "live_quality": "1080",
+                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1759126\/139425494"
+            },
+            "parentId": "139425493",
+            "url": "\/live-streaming-channel\/live-streaming\/139425493-139425494"
+        }
+    ]
+}
